@@ -12,7 +12,10 @@
 <br>
 
 <h2 align="center">Get in touch:</h2>
-
+p align="center">
+<a target="_blank" href="www.linkedin.com/in/jasmaine-khale-a48b33200">
+<img src="https://img.shields.io/badge/-lucasbivar-black?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasbivar" alt="Linkedin Badge">
+</a>
 
 
 
