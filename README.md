@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there, I'm Jasmaine </h1>
 
-<p align="center">I'm a second year undergraduate Computer and communication student at Manipal University Jaipur. I'm a self taught Front End Web developer and I am very interested building new things so I create projects using HTML, CSS and Javascript.</p>
+<p align="center">I'm a second year undergraduate Computer and communication student at Manipal University Jaipur. I'm a self taught Front End Web developer and I am very interested building new things so I create projects using HTML, CSS, Bootstrap and Javascript.</p>
 <br>
 
 <h2 align="center"> Languages and Tools: </h2>
