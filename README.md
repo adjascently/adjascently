@@ -21,4 +21,4 @@
 
 ### Stats:
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adjascently&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="adjascently" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adjascently&show_icons=true&locale=en&theme=tokyonight" alt="adjascently" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adjascently&show_icons=true&locale=en&theme=tokyonight" alt="adjascently"/> </p>
