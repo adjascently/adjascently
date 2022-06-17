@@ -1,5 +1,6 @@
 <h1 align="center"> Hey there, I'm Jasmaine </h1>
 
+### About me:
 <p align="center">I'm a second year undergraduate Computer and communication student at Manipal University Jaipur. I'm a self taught MERN Stack Developer and I am very interested building new things so I make projects on what I'm passionate about.</p>
 <br>
 
