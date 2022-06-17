@@ -1,7 +1,7 @@
-<h1 align="center"> Hey there, I'm Jasmaine </h1>
+<h1 align="center"> Hey there!! I'm Jasmaine </h1>
 
 ### About me:
--I'm a second year undergraduate Computer and communication student at Manipal University Jaipur. I'm a self taught MERN Stack Developer and I am very interested building new things so I make projects on what I'm passionate about.
+-I'm a second year undergraduate Computer and communication student at Manipal University Jaipur. I'm a self taught MERN Stack Developer and I am very passionate about building web development projects. I am cuurrently learning ML and working improving my competitive coding skills.
 <br>
 
 ### Languages and Tools:
@@ -20,5 +20,5 @@
 - [Email](mailto:jasmaine.209202028@muj.manipal.edu)
 
 ### Stats:
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adjascently&show_icons=true&locale=en&layout=compact&theme=dark" alt="adjascently" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adjascently&show_icons=true&locale=en&theme=dark" alt="adjascently" /></p>
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adjascently&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="adjascently" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adjascently&show_icons=true&locale=en&theme=tokyonight" alt="adjascently" /></p>
