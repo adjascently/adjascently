@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2338C2FF&size=24&vCenter=true&width=500&height=28&lines=Hey+there%2C+I'm+Jasmaine+Khale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%C32BAD&size=24&vCenter=true&width=500&height=28&lines=Hey+there%2C+I'm+Jasmaine+Khale)](https://git.io/typing-svg)
 
 ### About me:
 -I'm a second year undergraduate Computer and communication student at Manipal University Jaipur. I'm a self taught MERN Stack Developer and I am very passionate about building web development projects. I am cuurrently learning ML and working improving my competitive coding skills.
