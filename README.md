@@ -16,7 +16,15 @@
 </p>
 
 ### Contact me:
-- [LinkedIn](https://www.linkedin.com/in/jasmaine-khale-a48b33200/)
+    <p align="left">
+<a href="https:///www.linkedin.com/in/jasmaine-khale-a48b33200/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="[/in/jasmaine-khale-a48b33200/](https:///www.linkedin.com/in/jasmaine-khale-a48b33200/)" height="30" width="120" /></a>
+<a href="https://twitter.com/BhavinVirani45" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="[BhavinVirani45](twitter.com/BhavinVirani45)" height="30" width="100" /></a>
+<a href="https://dev.to/bhavinvirani" target="blank"><img align="center"  src="https://img.shields.io/badge/dev-%2324292e.svg?&style=for-the-badge&logo=devdotto&logoColor=white" alt="[/bhavinvirani](https://dev.to/bhavinvirani)" height="30" width="100" /></a>
+</a>
+</p>
+<hr />
+
+
 - [Email](mailto:jasmaine.209202028@muj.manipal.edu)
 
 ### Stats:
