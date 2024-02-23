@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 As a final year undergraduate studying at Manipal University Jaipur with a passion for technology, I have developed a diverse skill set in full-stack development, machine learning, and deep learning. With a strong foundation in front-end and back-end web development, I have created a variety of applications that showcase my technical abilities and innovative problem-solving skills.<br>Alongside my programming interests, I have a keen interest in machine learning and deep learning, particularly in their application to real-world problems. I have taken various online courses and completed multiple projects to improve my skills and knowledge in this field.
 
 
