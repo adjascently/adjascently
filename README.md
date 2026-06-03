@@ -1,18 +1,138 @@
-# 💫 About Me:
-I’m a software engineer passionate about crafting seamless digital experiences. My current focus lies in full stack development, with an emphasis on responsive design, accessibility, and performance optimization.
+<div align="center">
 
-I’m driven by turning ideas into reality through clean, efficient, and visually engaging code. I value collaboration deeply and thrive in cross-functional environments to bring projects to life.
+# Jasmaine Khale
 
-Currently, I’m pursuing my MS in Computer Science at Northeastern University (expected May 2026).
+**Backend Engineer · AI/ML Systems**
+
+MS Computer Science @ Northeastern University · 3.8 GPA · May 2026
+
+Ex-Microsoft · Ex-EY · Ex-Deloitte
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jasmaine-khale)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jasmaine.khale48@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/adjascently)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Backend%20%7C%20AI%2FML%20Engineer-brightgreen?style=flat)
+
+</div>
+
+---
+
+## About
+
+Software engineer with production experience shipping backend systems and AI-powered applications across Microsoft, EY, and Deloitte. I specialize in building scalable backend infrastructure and LLM-integrated systems — RAG pipelines, event-driven architectures, and REST APIs that handle real load.
+
+Currently: actively interviewing for full-time **Software Engineer**, **Backend Engineer**, and **AI/ML Engineer** roles. Available immediately, open to SF Bay Area and remote.
+
+---
+
+## Projects
+
+### VisaMate
+> AI immigration compliance tool · Python · FastAPI · MongoDB · FAISS · Pinecone · Chroma · OpenAI · Claude · Gemini
+
+Built a RAG pipeline that grounds LLM responses in official USCIS policy documents, resolving 200+ F-1/CPT/OPT/STEM-OPT immigration cases with 95% policy accuracy. Orchestrated a multi-model verification pipeline across OpenAI, Claude, and Gemini with FAISS semantic search to reduce hallucination versus vanilla LLM prompting.
+
+---
+
+### Smart Personal Finance Tracker
+> Serverless AWS architecture · Step Functions · SQS · EventBridge · SNS · Lambda · DynamoDB · RDS · SageMaker · React
+
+Built a fully serverless personal finance system on AWS using 15 services across 6 layers — automating bank statement ingestion via S3, event-driven processing through EventBridge and Step Functions, merchant categorization via Lambda, SNS threshold alerts, and a SageMaker-ready ML endpoint. Full observability via CloudWatch.
+
+---
+
+### PaperSage
+> Research summarization microservice · Python · FastAPI · LangChain · OpenAI · FAISS · Ollama
+
+Reduced manual literature review time by 60% by building a scalable microservice for research paper summarization using LangChain and FAISS-based semantic retrieval. Modular ingestion pipeline chunks, embeds, and indexes academic papers for natural language Q&A with stateless inference endpoints supporting concurrent multi-paper analysis.
+
+---
+
+### Few-Shot Retinal Disease Classification
+> Published ML research · PyTorch · ResNet-50 · Prototypical Networks · CLAHE
+
+Achieved 91% accuracy across 10 retinal disease classes using a few-shot learning framework with Prototypical Networks, ResNet-50 embeddings, and CLAHE-based augmentation. Demonstrated 5× faster convergence through balanced episodic sampling in low-data clinical diagnostic settings. **Published research paper.**
+
+---
+
+## Tech Stack
+
+**Backend & APIs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+
+**AI / ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jasmaine-khale) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
+---
 
+## Experience
 
+| Company | Role | Period |
+|---|---|---|
+| Ernst & Young | Software Engineering Intern | Jan – May 2024 |
+| Deloitte | Technology Consulting Intern | Jun – Aug 2023 |
+| Microsoft | Future Ready Talent Intern | May – Jul 2022 |
+| Celebal Technologies | Data & Analytics Intern | May – Aug 2022 |
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Education
+
+| Degree | Institution | Year |
+|---|---|---|
+| MS Computer Science — GPA 3.8 | Northeastern University, San Jose | May 2026 |
+| BTech Computer & Communications | Manipal University Jaipur | Jun 2024 |
+
+---
+
+## Publication
+
+**Balanced Few-Shot Episodic Learning for Accurate Retinal Disease Diagnosis**
+Few-shot learning · Prototypical Networks · PyTorch · Computer Vision · Clinical AI
+
+---
+
+<div align="center">
+
+**Currently open to full-time Backend / AI / SWE roles — available immediately**
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jasmaine-khale)
+[![Email](https://img.shields.io/badge/Email%20me-jasmaine.khale48%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jasmaine.khale48@gmail.com)
+
+</div>
