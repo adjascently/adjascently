@@ -43,7 +43,6 @@ Building an event-driven observability platform for collecting, processing, and 
 
 **Roadmap:** Prometheus metrics, Grafana dashboards, Kubernetes deployment, and advanced latency/token analytics.
 
-**Status:** Active development
 
 ---
 
@@ -60,7 +59,7 @@ Built an AI-powered immigration guidance system that grounds LLM responses in of
 
 ---
 
-### 💳 Smart Personal Finance Tracker
+### 💳 LedgerFlow
 > Serverless AWS · Step Functions · SQS · EventBridge · SNS · Lambda · DynamoDB · RDS · React
 
 Built a serverless personal finance application using an event-driven AWS architecture spanning 15 services across six layers.
